@@ -1,0 +1,7 @@
+{
+  "name": "BetaHealth - Stem Cell Therapy Explorer",
+  "description": "A comprehensive educational platform exploring the future of regenerative medicine and stem cell therapy for treating chronic diseases.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
